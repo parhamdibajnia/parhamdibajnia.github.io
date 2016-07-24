@@ -4,7 +4,7 @@
   "description": "My Personal Website",
   "main": "index.html",
   "scripts": {
-    "build": "resume export index.html --theme elegant",
+    "build": "resume export resume.html --theme elegant",
     "open": "open index.html",
     "start": "npm run build ; npm run open"
   },
