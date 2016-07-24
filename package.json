@@ -1,0 +1,21 @@
+{
+  "name": "parhamdibajnia.github.io",
+  "version": "1.0.0",
+  "description": "My Personal Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "resume export index.html --theme elegant",
+    "open": "open index.html",
+    "start": "npm run build ; npm run open"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Jonathan Boulanger",
+  "license": "ISC",
+  "bugs": {
+  },
+  "devDependencies": {
+    "resume-cli": "^0.4.13"
+  }
+}

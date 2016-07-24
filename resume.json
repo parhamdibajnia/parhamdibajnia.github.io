@@ -1,0 +1,127 @@
+{
+	"basics": {
+		"name": "Parham Dibajnia",
+		"label": "Finance/Accounting Student",
+		"picture": "http://i.imgur.com/lpWgQq0.jpg",
+		"email": "pdibajnia18@schulich.yorku.ca",
+		"phone": "(647) 609-2600",
+		"website": "https://boulajp.github.io",
+		"summary": "I'm Parham, a third year Finance and Accounting Student at the Schulich School of Business",
+		"location": {
+			"address": "711 St. Nicholas Court",
+			"postalCode": "L5H 4M5",
+			"city": "Mississauga",
+			"countryCode": "CA",
+			"region": "Ontario"
+		},
+		"profiles": [{
+			"network": "LinkedIn",
+			"username": "parhamdibajnia",
+			"url": "https://ca.linkedin.com/in/parhamdibajnia"
+		}]
+	},
+	"work": [{
+		"company": "Equitable Bank",
+		"position": "Residential Credit Analyst",
+		"website": "http://www.equitablebank.ca",
+		"startDate": "2016-05-01",
+		"endDate": "2016-09-02",
+		"summary": "",
+		"highlights": [
+			"Analyze applicants' financial status, credit, and property evaluations to determine feasibility of granting loans.",
+			"Review loan agreements to ensure that they are complete and compliant in accordance with audit and financial policies.",
+			"Originate $3,700,000+ in residential loans per week while co-ordinating with various departments, brokers and lawyers in overseeing the mortgage origination and funding process.",
+			"Assessed applicants’ financial standing and credit critically to make informed lending decisions while minimizing losses"
+		]
+	}, {
+		"company": "TD Canada Trust",
+		"position": "Customer Service Representative",
+		"website": "https://www.tdcanadatrust.com/",
+		"startDate": "2015-05-01",
+		"endDate": "2016-01-12",
+		"summary": "",
+		"highlights": [
+			"Offer products and services to new and existing clients to optimize their banking experience and provide them with financial advice based on their portfolio and situation",
+			"Top Legendary Customer Experience score in branch for July and August 2015 with +90% customer satisfaction",
+			"Top Sales Goal pace in Branch for Q3 of 2015 (achieved 167% of goal), and continued to exceed all sales goals to date",
+			"First-hand learning of the in-depth details of retail banking, including credit rates and terms, administrative branch procedures, and ethical concerns involving banking (money-laundering, fraud, etc )",
+			"Directly learned and observed the impact of changing economic markets and interest rates on clients’ day-to-day banking and credit products"
+		]
+	}],
+	"volunteer": [{
+		"organization": "VIBE 1055",
+		"position": "Vibe Music Hit Producer, Spotlight Interviewer and Northern Touch Contributor",
+		"website": "http://vibe1055.com/",
+		"startDate": "2014-12-01",
+		"endDate": "2016-04-01",
+		"summary": "",
+		"highlights": [
+			"Plan, schedule and present listeners with a diverse urban listening experience over live radio with shows and feature pieces",
+			"Communicate and convey insightful ideas to listeners locally and internationally through the production of feature pieces and interviews to be aired to over 300,000 simultaneous listeners"
+		]
+	}],
+	"education": [{
+		"institution": "Schulich School of Business - York University",
+		"area": "Finance & Accounting",
+		"studyType": "Junior",
+		"startDate": "2014-09-05",
+		"endDate": "2018-04-30",
+		"gpa": "3.7, with A/A+ in Finance, Accounting, Operations Management, Calculus, Economics and Political Science",
+		"courses": [
+			"Finance",
+			"Financial Accounting",
+			"Managerial Accounting",
+			"Macroeconomics and Microeconomics",
+			"Operations Management and Information Systems",
+			"Calculus and Statistics"
+		]
+	}],
+	"awards": [{
+		"title": "J&J Case Competition Participant",
+		"date": "2016-01-01",
+		"awarder": "Johnson & Johnson",
+		"summary": ""
+	}, {
+		"title": "EY SPARK Case Competition Participant",
+		"date": "2015-09-01",
+		"awarder": "Ernst & Young",
+		"summary": ""
+	}, {
+		"title": "LEI Excellence Award",
+		"date": "2015-08-01",
+		"awarder": "TD Canada Trust",
+		"summary": ""
+	}],
+	"publications": [],
+	"skills": [{
+		"name": "Financial Modelling",
+		"level": "Advnced",
+		"keywords": [
+			"DCF Models",
+			"LBO Models",
+			"Valuation Models"
+		]
+	}, {
+		"name": "Financial Statement Analysis",
+		"level": "Intermediate",
+		"keywords": []
+	}, {
+		"name": "Data and Statistical Analysis",
+		"level": "Advanced",
+		"keywords": []
+	}, {
+		"name": "Management Information Systems",
+		"level": "Intermediate",
+		"keywords": []
+	}, {
+		"name": "Operations Management",
+		"level": "Intermediate",
+		"keywords": [
+			"Queueing Theory",
+			"Linear Optmization"
+		]
+	}],
+	"languages": [],
+	"interests": [],
+	"references": []
+}
